@@ -1,7 +1,7 @@
 # <img src="/src/icon.png" height="30px"> Verify.ReadableExpressions
 
 [![Discussions](https://img.shields.io/badge/Verify-Discussions-yellow?svg=true&label=)](https://github.com/orgs/VerifyTests/discussions)
-[![Build status](https://ci.appveyor.com/api/projects/status/ej794va900x9257f?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-ReadableExpressions)
+[![Build status](https://ci.appveyor.com/api/projects/status/1b88m1705v9i8l3m?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-ReadableExpressions)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.ReadableExpressions.svg)](https://www.nuget.org/packages/Verify.ReadableExpressions/)
 
 Adds [Verify](https://github.com/VerifyTests/Verify) support for scrubbing Expression Trees using [ReadableExpressions](https://github.com/agileobjects/ReadableExpressions).<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
