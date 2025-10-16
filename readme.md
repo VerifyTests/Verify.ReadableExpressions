@@ -26,6 +26,9 @@ Adds [Verify](https://github.com/VerifyTests/Verify) support for scrubbing Expre
 
 ## Usage
 
+
+### Enable
+
 <!-- snippet: enable -->
 <a id='snippet-enable'></a>
 ```cs
@@ -36,6 +39,8 @@ public static void Init() =>
 <sup><a href='/src/Tests/ModuleInitializer.cs#L3-L9' title='Snippet source file'>snippet source</a> | <a href='#snippet-enable' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
+
+### Sample Expression
 
 Given a complex Expression:
 
@@ -88,7 +93,7 @@ public static Expression<Func<Person, decimal>> SalaryCalculation()
 <!-- endSnippet -->
 
 
-Test:
+### Test
 
 <!-- snippet: Example -->
 <a id='snippet-Example'></a>
@@ -103,7 +108,8 @@ public Task VerifySalaryCalculation()
 <sup><a href='/src/Tests/Tests.cs#L3-L12' title='Snippet source file'>snippet source</a> | <a href='#snippet-Example' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
-Resulting in:
+
+### Resulting
 
 <!-- snippet: Tests.VerifySalaryCalculation.verified.txt -->
 <a id='snippet-Tests.VerifySalaryCalculation.verified.txt'></a>
