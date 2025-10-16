@@ -118,4 +118,4 @@ person => (person.Age < 30)
 
 ## Icon
 
-[Clock](https://thenounproject.com/term/clock/731041/) designed by [Mooyai Khomsun Chaiwong](https://thenounproject.com/mooyai/) from [The Noun Project](https://thenounproject.com/).
+[Tree](https://thenounproject.com/term/tree/8100408/) designed by [BnB Studio](https://thenounproject.com/creator/bnbstudio/) from [The Noun Project](https://thenounproject.com/).
