@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/1b88m1705v9i8l3m?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-ReadableExpressions)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.ReadableExpressions.svg)](https://www.nuget.org/packages/Verify.ReadableExpressions/)
 
-Adds [Verify](https://github.com/VerifyTests/Verify) support for scrubbing Expression Trees using [ReadableExpressions](https://github.com/agileobjects/ReadableExpressions).<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
+Adds [Verify](https://github.com/VerifyTests/Verify) support for Expression Trees using [ReadableExpressions](https://github.com/agileobjects/ReadableExpressions).<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
 
 **See [Milestones](../../milestones?state=closed) for release notes.**
 
