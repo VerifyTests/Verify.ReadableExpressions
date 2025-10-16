@@ -1,0 +1,6 @@
+﻿{
+  expression:
+person => (person.Age < 30)
+  ? person.Salary * 1.15m
+  : (person.Age < 50) ? person.Salary * 1.08m : person.Salary * 1.03m
+}

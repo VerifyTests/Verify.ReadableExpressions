@@ -1,0 +1,1 @@
+﻿person => (person.City ?? "Unknown").ToUpper().Trim() + " - " + person.LastName.Substring(0, Math.Min(3, person.LastName.Length))

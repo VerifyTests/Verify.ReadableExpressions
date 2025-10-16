@@ -1,0 +1,6 @@
+﻿{
+  expression:
+person => ((person.City != null) && (person.City.Length > 0))
+  ? person.City[0].ToString().ToLower()
+  : "unknown"
+}
